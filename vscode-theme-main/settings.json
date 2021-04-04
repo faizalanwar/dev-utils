@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Monokai Pro",
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "window.menuBarVisibility": "toggle",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "100",
+    "editor.fontFamily": "Operator Mono lig",//"'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'"
+    "editor.fontSize": 16,
+    "window.zoomLevel": -1
+}
